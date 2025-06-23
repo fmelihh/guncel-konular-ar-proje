@@ -10,6 +10,8 @@ Mevcut mobil uygulamaların çoğu ya çok basit ya da çok karmaşık bir yapı
 
 Bu bağlamda, çocukların kendi ejderhalarını yönlendirdiği, VR teknolojisini SaaS altyapısı ile birleştiren, onlara özel bir keşif alanı sunacak yenilikçi bir mobil platform ihtiyacı ortaya çıkmıştır. Bu platformda çocuklar, ejderhalarıyla birlikte farklı kıtalar, ülkeler ve şehirler arasında uçarak yeni kültürleri tanır, farklı dilleri duyar, coğrafi keşiflerde bulunur. Ejderhalarını geliştirdikçe yeni beceriler kazanan çocuklar, eğlenirken öğrenir, oynarken kendilerini geliştirirler.
 
+Proje Websitesi: https://kucuk-kasifler-atlasi.netlify.app
+
 ## UI Tasarımları
 ![UI](docs/mock_ui.png)
 
