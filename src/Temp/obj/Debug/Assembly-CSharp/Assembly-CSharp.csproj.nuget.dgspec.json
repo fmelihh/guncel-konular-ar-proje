@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/furkanmelih/personal_projects/guncelKonularARProje/dragon/Assembly-CSharp.csproj": {}
+    "/Users/furkanmelih/personal_projects/guncelKonularARProje/src/Assembly-CSharp.csproj": {}
   },
   "projects": {
-    "/Users/furkanmelih/personal_projects/guncelKonularARProje/dragon/Assembly-CSharp.csproj": {
+    "/Users/furkanmelih/personal_projects/guncelKonularARProje/src/Assembly-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/furkanmelih/personal_projects/guncelKonularARProje/dragon/Assembly-CSharp.csproj",
+        "projectUniqueName": "/Users/furkanmelih/personal_projects/guncelKonularARProje/src/Assembly-CSharp.csproj",
         "projectName": "Assembly-CSharp",
-        "projectPath": "/Users/furkanmelih/personal_projects/guncelKonularARProje/dragon/Assembly-CSharp.csproj",
+        "projectPath": "/Users/furkanmelih/personal_projects/guncelKonularARProje/src/Assembly-CSharp.csproj",
         "packagesPath": "/Users/furkanmelih/.nuget/packages/",
-        "outputPath": "/Users/furkanmelih/personal_projects/guncelKonularARProje/dragon/Temp/obj/Debug/Assembly-CSharp/",
+        "outputPath": "/Users/furkanmelih/personal_projects/guncelKonularARProje/src/Temp/obj/Debug/Assembly-CSharp/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/furkanmelih/.nuget/NuGet/NuGet.Config"
